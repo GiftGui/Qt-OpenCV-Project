@@ -1,5 +1,4 @@
 # Qt-OpenCV-Project
-该项目集来自于个人对Qt框架和OpenCV库的学习。
 Using Qt to build graphic user interface and combining logic between different module.
 
 Object detect using deep learning model provided by OpenCV.
